@@ -1,0 +1,18 @@
+{
+  "vertices": 12,
+  "free_edges": 17,
+  "components": 1,
+  "r": 2,
+  "q_max": 6,
+  "q": 4,
+  "jacobian_rows": 100,
+  "jacobian_columns": 184,
+  "rank_J_int": 84,
+  "dim_ker_J_int": 100,
+  "rank_T_gauge": 92,
+  "dim_H_miss": 8,
+  "rank_A_A_on_T_gauge": 92,
+  "rank_A_B_on_T_gauge": 92,
+  "rank_A_A_on_ker": 92,
+  "rank_A_B_on_ker": 92
+}

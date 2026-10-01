@@ -7,6 +7,7 @@ name = "mcgt-repro"
 version = "1.0.0"
 description = "Reproducibility artifact for the exact finite-graph rank witnesses in Gauge Orbits, Cycle Completeness, and Reference Design in Metric-Compatible Graph Transport."
 readme = "README.md"
+license = {text = "BSD-3-Clause"}
 requires-python = ">=3.11"
 authors = [{name = "Chien-Chih Chen"}]
 

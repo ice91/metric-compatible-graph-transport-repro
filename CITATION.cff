@@ -3,6 +3,8 @@ title: Metric-Compatible Graph Transport Reproducibility Artifact
 message: Please cite this software using these metadata.
 type: software
 version: 1.0.0
+license: BSD-3-Clause
+repository-code: "https://github.com/ice91/metric-compatible-graph-transport-repro"
 authors:
   - family-names: Chen
     given-names: Chien-Chih

@@ -87,5 +87,5 @@ PYTHONPATH=src python3 -m unittest discover -s tests -v
 
 ## License
 
-A license has not been selected. See `LICENSE`. This candidate is not
-offered for public reuse until a license is added.
+This reproducibility artifact is released under the BSD 3-Clause
+License. See `LICENSE`.
